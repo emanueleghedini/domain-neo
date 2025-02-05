@@ -12,7 +12,7 @@ It includes the representation of the Fukushima Daichi accident, based on the of
 
 <ins>The ontology is still in early development phase and provides only a partial cover of the nuclear engineering domain and Fukushima Daichi accident report.</ins>
 
-## Acknowledgement
+## Acknowledgements
 The work has been performed in the context of the course *Digitalization Of Engineering Methodologies And Data M* , in the second cycle degree programme in Energy Engineering at the University of Bologna.
 
 Authors:
